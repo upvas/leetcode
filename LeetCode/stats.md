@@ -2,7 +2,7 @@
 9 april - 12  
 10 april - 14  
 11 april - 5(m) (brute force)  
-23 april - 20 
+23 april - 20, 6(m)  
 
 # Done with problems
 
