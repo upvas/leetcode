@@ -1,8 +1,9 @@
 # Done
 9 april - 12  
 10 april - 14  
-11 april - 5(m) (brute force)  
-23 april - 20, 6(m)  
+11 april - 5m (brute force)  
+23 april - 20, 6m  
+27 april - 11m (brute force, O(n) with help)
 
 # Done with problems
 
