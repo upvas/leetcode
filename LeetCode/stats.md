@@ -4,6 +4,7 @@
 11 april - 5m (brute force)  
 23 april - 20, 6m  
 27 april - 11m (brute force, O(n) with help)
+29 april - 21m
 
 # Done with problems
 
