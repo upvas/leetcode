@@ -1,2 +1,2 @@
 # Solutions
-Solutions for LeetCode.com and other same platforms for problem solving.
+Solutions for LeetCode.com problems.
