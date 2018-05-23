@@ -9,6 +9,7 @@
 16 may - 28  
 18 may - 26, 38(~30min)  
 21 may - 17m(~50min)  
+24 may - 53(bf, 22min)  
 
 # Done with problems
 
