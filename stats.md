@@ -10,6 +10,7 @@
 18 may - 26, 38(~30min)  
 21 may - 17m(~50min)  
 24 may - 53(bf, 22min)  
+29 may - 33m(2h20min)  
 
 # Done with problems
 
