@@ -6,13 +6,16 @@ func maxSubArray(nums []int) int {
 	}
 
 	max := nums[0]
-	for i := range nums {
-		sum := 0
-		for j := i; j < len(nums); j++ {
-			sum += nums[j]
-			if sum > max {
-				max = sum
-			}
+	lastMax := 0
+	for _, v := range nums {
+		add := 0
+		if lastMax > 0 {
+			add = lastMax
+		}
+		lastMax = v + add
+
+		if lastMax > max {
+			max = lastMax
 		}
 	}
 	return max
