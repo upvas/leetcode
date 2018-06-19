@@ -13,6 +13,7 @@
 29 may - 33m(2h20min)  
 31 may - 35
 13? june - 70  
+19 june - 22m   
 
 # Done with problems
 
