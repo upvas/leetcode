@@ -12,10 +12,11 @@
 24 may - 53(bf, 22min)  
 29 may - 33m(2h20min)  
 31 may - 35
-13? june - 70  
+13 june - 70  
 19 june - 22m   
 25 june - 101   
 26 june - 102, 66  
+27 june - 31m(1h15min)
 
 
 # Done with problems
