@@ -17,7 +17,7 @@
 25 june - 101   
 26 june - 102, 66  
 27 june - 31m(1h15min)
-
+20 july - 102(18min)   
 
 # Done with problems
 
