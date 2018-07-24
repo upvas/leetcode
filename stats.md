@@ -19,12 +19,4 @@
 27 june - 31m(1h15min)
 20 july - 102(18min), 121(15min)      
 22 july - 34m(40m)   
-
-# Done with problems
-
-
-# Not done (TODO)
-
-
-# Done with help
-8 april - 9
+24 july - 39m(55m)
