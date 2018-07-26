@@ -20,3 +20,4 @@
 20 july - 102(18min), 121(15min)      
 22 july - 34m(40m)   
 24 july - 39m(55m)
+26 july - 54m(25m)
